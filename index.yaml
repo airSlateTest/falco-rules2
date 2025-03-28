@@ -1,0 +1,5 @@
+- name: custom-falco-rules
+  description: Custom Falco rules
+  path: custom-falco_rules.yaml
+  url: https://github.com/airSlateTest/falco-rules2/blob/main/custom-falco_rules.yaml
+
